@@ -1,0 +1,10 @@
+POSTGRES_DB=postgres
+POSTGRES_HOST=database-1.cecceksigpnr.us-east-1.rds.amazonaws.com
+URL=http://localhost:8100
+AWS_BUCKET=final-project-ziad
+AWS_REGION= us-east-1
+AWS_PROFILE=default
+JWT_SECRET=testing
+
+
+
